@@ -1,14 +1,14 @@
-class RecipesController < ApplicationController
+class StationsController < ApplicationController
   before_action :authorized
   wrap_parameters format: []
   rescue_from ActiveRecord::RecordInvalid, with: :render_unprocessable_entity_response
 
   def index
-    render json: Recipe.all, status: :ok
+    render json: Station.all, status: :ok
   end
 
   def create
-    recipe = Recipe.create!(title: params[:title], instructions: params[:instructions], minutes_to_complete: params[:minutes_to_complete], user_id: session[:user_id])
+    recipe = Station.create!(title: params[:title], instructions: params[:instructions], minutes_to_complete: params[:minutes_to_complete], user_id: session[:user_id])
     render json: recipe, status: :created
   end
 
