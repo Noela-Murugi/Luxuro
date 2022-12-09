@@ -34,12 +34,12 @@ Luxuro, a hotel resort that operates on reservations made.
 
 ### Make Reservation
 
-![submit.png](https://github.com/Noela-Murugi/Luxuro/blob/main/submit.png)
-![submitreservation.png](https://github.com/Noela-Murugi/Luxuro/blob/main/submitreservation.png)
+![submit.png](https://github.com/Noela-Murugi/Luxuro/blob/main/client/submit.png)
+![submitreservation.png](https://github.com/Noela-Murugi/Luxuro/blob/main/client/submitreservation.png)
 
 ### Reservations List
 
-![reservepost.png](https://github.com/Noela-Murugi/Luxuro/blob/main/reservepost.png)
+![reservepost.png](https://github.com/Noela-Murugi/Luxuro/blob/main/client/reservepost.png)
 
 
 ## Technologies Used
