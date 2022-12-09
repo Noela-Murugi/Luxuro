@@ -30,7 +30,7 @@ Luxuro, a hotel resort that operates on reservations made.
 
 ### Sign Up Page
 
-![signup.png](https://github.com/Noela-Murugi/Luxuro/blob/main/signup.png)
+![signup.png](https://github.com/Noela-Murugi/Luxuro/blob/main/client/signup.png)
 
 ### Make Reservation
 
