@@ -30,16 +30,16 @@ Luxuro, a hotel resort that operates on reservations made.
 
 ### Sign Up Page
 
-![signup.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+![signup.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/signup.png)
 
 ### Make Reservation
 
-![submit.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
-![submitreservation.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+![submit.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/submit.png)
+![submitreservation.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/submitreservation.png)
 
 ### Reservations List
 
-![reservepost.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+![reservepost.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/reservepost.png)
 
 
 ## Technologies Used
@@ -71,17 +71,17 @@ npm install --prefix client
 You can use the following commands to run the application:
 
 ```
-Backend :
+Backend
 
 rails s
 
-Frontend :
+Frontend
 
 npm start --prefix client
 
 ```
-Run the Frontend on: http://localhost:4000
-Run the Backend on: http://localhost:3000/new
++ Run the Frontend on: http://localhost:4000 <br>
++ Run the Backend on: http://localhost:3000/new <br>
 
 ## Contributions
 
