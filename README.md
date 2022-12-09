@@ -28,6 +28,20 @@ Luxuro, a hotel resort that operates on reservations made.
 
 ![login.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
 
+### Sign Up Page
+
+![signup.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+
+### Make Reservation
+
+![submit.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+![submitreservation.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+
+### Reservations List
+
+![reservepost.png](https://github.com/Noela-Murugi/Luxuro-frontend/blob/main/login.png)
+
+
 ## Technologies Used
 
 ### Frontend
@@ -57,15 +71,18 @@ npm install --prefix client
 You can use the following commands to run the application:
 
 ```
-Run the Backend on: http://localhost:3000
+Backend :
 
 rails s
 
-Run the Frontend on: http://localhost:4000
+Frontend :
 
 npm start --prefix client
 
 ```
+Run the Frontend on: http://localhost:4000
+Run the Backend on: http://localhost:3000/new
+
 ## Contributions
 
 1. Fork this repository.
