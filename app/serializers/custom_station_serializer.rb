@@ -1,4 +1,4 @@
-class CustomRecipeSerializer < ActiveModel::Serializer
+class CustomStationSerializer < ActiveModel::Serializer
   attributes :id, :title, :instructions, :minutes_to_complete
   belongs_to :user
 end
