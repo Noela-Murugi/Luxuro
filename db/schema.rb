@@ -12,7 +12,7 @@
 
 ActiveRecord::Schema.define(version: 2022_12_01_211331) do
 
-  create_table "recipes", force: :cascade do |t|
+  create_table "stations", force: :cascade do |t|
     t.string "title"
     t.text "instructions"
     t.integer "minutes_to_complete"
